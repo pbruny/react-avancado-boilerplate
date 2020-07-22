@@ -1,7 +1,7 @@
 const Main = () => {
   return (
     <main>
-      <h1>Ali</h1>
+      <h1>Alo</h1>
     </main>
   )
 }
