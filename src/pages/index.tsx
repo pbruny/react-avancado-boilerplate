@@ -1,7 +1,5 @@
 import Head from 'next/head'
 
-const foo = 'var'
-
 export default function Home() {
   return (
     <div className="container">
