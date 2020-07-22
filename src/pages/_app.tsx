@@ -14,6 +14,7 @@ function App({ Component, pageProps }: AppProps) {
           name="description"
           content="A single project started to work with TS, React and Next"
         />
+        <link rel="manifest" href="/manifest.json" />
       </Head>
       <GlobalStyles />
       <Component {...pageProps} />
